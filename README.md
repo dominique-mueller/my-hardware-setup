@@ -30,12 +30,12 @@ My personal hardware setup.
 
 ## Peripherals
 
-| Part       | Product w/ specs                                  | Link                                                                                                                       |
-| ---------- | ------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
-| Monitor    | 2x Dell Ultrasharp U2518D (25'', WQHD, 60Hz, IPS) | [Product page](https://www1.euro.dell.com/content/products/productdetails.aspx/dell-u2518d-monitor?c=de&l=de&s=bsd)        |
-| Keyboard   | Logitech K280e Corded Keyboard                    | [Product page](https://www.logitech.com/de-de/product/corded-keyboard-k280e-business)                                      |
-| Mouse      | Logitech G305 Gaming Wireless Mouse (black)       | [Product page](https://www.logitechg.com/de-de/products/gaming-mice/g305-lightspeed-wireless-gaming-mouse.910-005282.html) |
-| Webcam     | Logitech C920 USB HD Webcam                       | [Product page](https://www.logitech.com/de-de/product/hd-pro-webcam-c920)                                                  |
-| Microphone | BLUE Yeti Nano USB Microphone                     | [Product page](https://www.bluemic.com/de-de/products/yeti-nano/)                                                          |
-| Speakers   | Bose Companion 20 Speakers                        | [Product page](https://www.bose.de/de_de/products/speakers/stereo_speakers/companion-20-multimedia-speaker-system.html)    |
-| Headset    | Kingston HyperX Cloud II Gaming Headset           | [Product page](https://www.hyperxgaming.com/germany/de/headsets/cloud-gaming-headset)                                      |
+| Part       | Product w/ specs                                                    | Link                                                                                                                       |
+| ---------- | ------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
+| Monitor    | 2x LG 27GL850-B (27'', WQHD, IPS, 144Hz, HDR 10, G-Sync / FreeSync) | [Product page](https://www.lg.com/de/monitore/lg-27GL850-B)                                                                |
+| Keyboard   | Logitech K280e Corded Keyboard                                      | [Product page](https://www.logitech.com/de-de/product/corded-keyboard-k280e-business)                                      |
+| Mouse      | Logitech G305 Gaming Wireless Mouse (black)                         | [Product page](https://www.logitechg.com/de-de/products/gaming-mice/g305-lightspeed-wireless-gaming-mouse.910-005282.html) |
+| Webcam     | Logitech C920 USB HD Webcam                                         | [Product page](https://www.logitech.com/de-de/product/hd-pro-webcam-c920)                                                  |
+| Microphone | BLUE Yeti Nano USB Microphone                                       | [Product page](https://www.bluemic.com/de-de/products/yeti-nano/)                                                          |
+| Speakers   | Bose Companion 20 Speakers                                          | [Product page](https://www.bose.de/de_de/products/speakers/stereo_speakers/companion-20-multimedia-speaker-system.html)    |
+| Headset    | Kingston HyperX Cloud II Gaming Headset                             | [Product page](https://www.hyperxgaming.com/germany/de/headsets/cloud-gaming-headset)                                      |
