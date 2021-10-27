@@ -40,3 +40,18 @@ My personal hardware setup.
 | Speakers   | Bose Companion 20 Speakers                                          | [Product website](https://www.bose.de/de_de/products/speakers/stereo_speakers/companion-20-multimedia-speaker-system.html)    |
 | Headset    | Kingston HyperX Cloud II Gaming Headset                             | [Product website](https://www.hyperxgaming.com/germany/de/headsets/cloud-gaming-headset)                                      |
 | Printer    | HP OfficeJet Pro 8710                                               | [Product website](https://support.hp.com/de-de/drivers/selfservice/hp-officejet-pro-8710-all-in-one-printer-series/7902014)   |
+
+<br><br>
+
+## Drivers & Tools
+
+| Name                                                                                               | Description                                                  |
+| -------------------------------------------------------------------------------------------------- | ------------------------------------------------------------ |
+| **[NVIDIA GeForce Experience](https://www.nvidia.com/de-de/geforce/geforce-experience)**           | GPU driver & tool                                            |
+| **[ASUS Armoury Crate](https://rog.asus.com/de/armoury-crate)**                                    | ASUS Mainboard & GPU tool                                    |
+| **[ASUS GPU Tweak III](https://www.asus.com/campaign/GPU-Tweak-III)**                              | ASUS GPU tool                                                |
+| **[Samsung Magician](https://www.samsung.com/semiconductor/minisite/ssd/download/tools)**          | SSD (M.2, SATA) tool                                         |
+| **[Logitech G Hub](https://www.logitechg.com/de-de/innovation/g-hub.html)**                        | Logitech peripherals tool (Mouse, Keyboard, Headset, Webcam) |
+| **[HP Smart](https://www.hpsmart.com/at/de)**                                                      | HP Printer tool                                              |
+| **[Voicemeter Potato](https://vb-audio.com/Voicemeeter/potato.htm)**                               | Audio mixer _(x64 - high priority - only first CPU core)_    |
+| **[Minimal ADB and Fastboot Tool](https://androidmtk.com/download-minimal-adb-and-fastboot-tool)** | Connect to Android devices (Smartphone, TV)                  |
