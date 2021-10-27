@@ -30,7 +30,7 @@ My personal hardware setup.
 
 ## Peripherals
 
-| Part       | Product w/ specs                                                    | Link                                                                                                                          |
+| Type       | Product w/ specs                                                    | Link                                                                                                                          |
 | ---------- | ------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
 | Monitor    | 2x LG 27GL850-B (27'', WQHD, IPS, 144Hz, HDR 10, G-Sync / FreeSync) | [Product website](https://www.lg.com/de/monitore/lg-27GL850-B)                                                                |
 | Keyboard   | Logitech K280e Corded Keyboard                                      | [Product website](https://www.logitech.com/de-de/product/corded-keyboard-k280e-business)                                      |
@@ -39,3 +39,4 @@ My personal hardware setup.
 | Microphone | BLUE Yeti Nano USB Microphone                                       | [Product website](https://www.bluemic.com/de-de/products/yeti-nano/)                                                          |
 | Speakers   | Bose Companion 20 Speakers                                          | [Product website](https://www.bose.de/de_de/products/speakers/stereo_speakers/companion-20-multimedia-speaker-system.html)    |
 | Headset    | Kingston HyperX Cloud II Gaming Headset                             | [Product website](https://www.hyperxgaming.com/germany/de/headsets/cloud-gaming-headset)                                      |
+| Printer    | HP OfficeJet Pro 8710                                               | [Product website](https://support.hp.com/de-de/drivers/selfservice/hp-officejet-pro-8710-all-in-one-printer-series/7902014)   |
