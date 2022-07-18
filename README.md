@@ -30,16 +30,18 @@ My personal hardware setup.
 
 ## Peripherals
 
-| Type       | Product w/ specs                                                    | Link                                                                                                                          |
-| ---------- | ------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
-| Monitor    | 2x LG 27GL850-B (27'', WQHD, IPS, 144Hz, HDR 10, G-Sync / FreeSync) | [Product website](https://www.lg.com/de/monitore/lg-27GL850-B)                                                                |
-| Keyboard   | Logitech K280e Corded Keyboard                                      | [Product website](https://www.logitech.com/de-de/product/corded-keyboard-k280e-business)                                      |
-| Mouse      | Logitech G305 Gaming Wireless Mouse (black)                         | [Product website](https://www.logitechg.com/de-de/products/gaming-mice/g305-lightspeed-wireless-gaming-mouse.910-005282.html) |
-| Webcam     | Logitech C920 USB HD Webcam                                         | [Product website](https://www.logitech.com/de-de/product/hd-pro-webcam-c920)                                                  |
-| Microphone | BLUE Yeti Nano USB Microphone                                       | [Product website](https://www.bluemic.com/de-de/products/yeti-nano/)                                                          |
-| Speakers   | Bose Companion 20 Speakers                                          | [Product website](https://www.bose.de/de_de/products/speakers/stereo_speakers/companion-20-multimedia-speaker-system.html)    |
-| Headset    | Kingston HyperX Cloud II Gaming Headset                             | [Product website](https://www.hyperxgaming.com/germany/de/headsets/cloud-gaming-headset)                                      |
-| Printer    | HP OfficeJet Pro 8710                                               | [Product website](https://support.hp.com/de-de/drivers/selfservice/hp-officejet-pro-8710-all-in-one-printer-series/7902014)   |
+| Type            | Product w/ specs                                                    | Link                                                                                                                              |
+| --------------- | ------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
+| Monitor         | 2x LG 27GL850-B (27'', WQHD, IPS, 144Hz, HDR 10, G-Sync / FreeSync) | [Product website](https://www.lg.com/de/monitore/lg-27GL850-B)                                                                    |
+| Keyboard        | Logitech K280e Corded Keyboard                                      | [Product website](https://www.logitech.com/de-de/product/corded-keyboard-k280e-business)                                          |
+| Mouse           | Logitech G305 Gaming Wireless Mouse (black)                         | [Product website](https://www.logitechg.com/de-de/products/gaming-mice/g305-lightspeed-wireless-gaming-mouse.910-005282.html)     |
+| Webcam          | Logitech C920 USB HD Webcam                                         | [Product website](https://www.logitech.com/de-de/product/hd-pro-webcam-c920)                                                      |
+| Speakers        | Bose Companion 20 Speakers                                          | [Product website](https://www.bose.de/de_de/products/speakers/stereo_speakers/companion-20-multimedia-speaker-system.html)        |
+| Headset         | Logitech G PRO X Gaming Headset                                     | [Product website](https://www.logitechg.com/de-de/products/gaming-audio/pro-x-gaming-headset-blue-voice-mic-tech.981-000818.html) |
+| Microphone      | Audio Technica BP40                                                 | [Product website](https://www.audio-technica.com/de-de/bp40)                                                                      |
+| Audio Interface | Focusrite Scarlett Solo (3rd Gen)                                   | [Product website](https://focusrite.com/de/audio-interface/scarlett/scarlett-solo)                                                |
+| Microphone Arm  | RØDE PSA1+ Professional Studio Boom Arm                             | [Product website](https://rode.com/de/accessories/stands-bars/psa1-plus)                                                          |
+| Printer         | HP OfficeJet Pro 8710                                               | [Product website](https://support.hp.com/de-de/drivers/selfservice/hp-officejet-pro-8710-all-in-one-printer-series/7902014)       |
 
 <br><br>
 
