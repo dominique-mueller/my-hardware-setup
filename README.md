@@ -47,13 +47,15 @@ My personal hardware setup.
 
 ## Drivers & Tools
 
-| Name                                                                                               | Description                                                  |
-| -------------------------------------------------------------------------------------------------- | ------------------------------------------------------------ |
-| **[NVIDIA GeForce Experience](https://www.nvidia.com/de-de/geforce/geforce-experience)**           | GPU driver & tool                                            |
-| **[ASUS Armoury Crate](https://rog.asus.com/de/armoury-crate)**                                    | ASUS Mainboard & GPU tool                                    |
-| **[ASUS GPU Tweak III](https://www.asus.com/campaign/GPU-Tweak-III)**                              | ASUS GPU tool                                                |
-| **[Samsung Magician](https://www.samsung.com/semiconductor/minisite/ssd/download/tools)**          | SSD (M.2, SATA) tool                                         |
-| **[Logitech G Hub](https://www.logitechg.com/de-de/innovation/g-hub.html)**                        | Logitech peripherals tool (Mouse, Keyboard, Headset, Webcam) |
-| **[HP Smart](https://www.hpsmart.com/at/de)**                                                      | HP Printer tool                                              |
-| **[Voicemeter Potato](https://vb-audio.com/Voicemeeter/potato.htm)**                               | Audio mixer _(x64 - high priority - only first CPU core)_    |
-| **[Minimal ADB and Fastboot Tool](https://androidmtk.com/download-minimal-adb-and-fastboot-tool)** | Connect to Android devices (Smartphone, TV)                  |
+| Name                                                                                                      | Description                                                                                                               |
+| --------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
+| **[ASUS Armoury Crate](https://rog.asus.com/de/armoury-crate)**                                           | ASUS Mainboard & driver tool                                                                                              |
+| **[ASUS GPU Tweak III](https://www.asus.com/campaign/GPU-Tweak-III/us/index.php)**                        | ASUS GPU tool                                                                                                             |
+| **[NVIDIA GeForce Experience](https://www.nvidia.com/de-de/geforce/geforce-experience)**                  | GPU driver & tool                                                                                                         |
+| **[Samsung Magician](https://www.samsung.com/semiconductor/minisite/ssd/download/tools)**                 | SSD (NVMe M.2, SATA) tool                                                                                                 |
+| **[Logitech G Hub](https://www.logitechg.com/de-de/innovation/g-hub.html)**                               | Logitech peripherals tool (Mouse, Keyboard, Headset, Webcam)                                                              |
+| **[Focusrite Control](https://downloads.focusrite.com/focusrite/scarlett-3rd-gen/scarlett-solo-3rd-gen)** | Audio Engine driver                                                                                                       |
+| **[Voicemeter Potato](https://vb-audio.com/Voicemeeter/potato.htm)**                                      | Audio mixer _(x64, high priority, 1st CPU core affinity)_<br>Also: `audiodg.exe` _(high priority, 1st CPU core affinity)_ |
+| **[Process Lasso](https://bitsum.com/)**                                                                  | Process Manager (e.g. for permanent process priorities and CPU core affinities)                                           |
+| **[HP Smart](https://www.hpsmart.com/at/de)**                                                             | HP Printer tool                                                                                                           |
+| **[Minimal ADB and Fastboot Tool](https://androidmtk.com/download-minimal-adb-and-fastboot-tool)**        | Connect to Android devices (Smartphone, TV)                                                                               |
