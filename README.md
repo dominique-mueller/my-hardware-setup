@@ -48,13 +48,21 @@ My personal hardware setup.
 
 | Name                                                                                                      | Description                                                                                                               |
 | --------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
-| **[ASUS Armoury Crate](https://rog.asus.com/de/armoury-crate)**                                           | ASUS Mainboard & driver tool                                                                                              |
-| **[ASUS GPU Tweak III](https://www.asus.com/campaign/GPU-Tweak-III/us/index.php)**                        | ASUS GPU tool                                                                                                             |
 | **[NVIDIA GeForce Experience](https://www.nvidia.com/de-de/geforce/geforce-experience)**                  | GPU driver & tool                                                                                                         |
 | **[Samsung Magician](https://www.samsung.com/semiconductor/minisite/ssd/download/tools)**                 | SSD (NVMe M.2, SATA) tool                                                                                                 |
 | **[Logitech G Hub](https://www.logitechg.com/de-de/innovation/g-hub.html)**                               | Logitech peripherals tool (Mouse, Keyboard, Headset, Webcam)                                                              |
+| **[Voicemeter Potato](https://vb-audio.com/Voicemeeter/potato.htm)** (paid)                               | Audio mixer _(x64, high priority, 1st CPU core affinity)_<br>Also: `audiodg.exe` _(high priority, 1st CPU core affinity)_ |
+| **[Process Lasso](https://bitsum.com/)** (paid)                                                           | Process Manager (e.g. for permanent process priorities and CPU core affinities)                                           |
+| **[MSI Afterburner](https://www.msi.com/Landing/afterburner/graphics-cards)**                             | GPU Monitoring and Overclocking                                                                                           |
 | **[Focusrite Control](https://downloads.focusrite.com/focusrite/scarlett-3rd-gen/scarlett-solo-3rd-gen)** | Audio Engine driver                                                                                                       |
-| **[Voicemeter Potato](https://vb-audio.com/Voicemeeter/potato.htm)**                                      | Audio mixer _(x64, high priority, 1st CPU core affinity)_<br>Also: `audiodg.exe` _(high priority, 1st CPU core affinity)_ |
-| **[Process Lasso](https://bitsum.com/)**                                                                  | Process Manager (e.g. for permanent process priorities and CPU core affinities)                                           |
 | **[HP Smart](https://www.hpsmart.com/at/de)**                                                             | HP Printer tool                                                                                                           |
 | **[Minimal ADB and Fastboot Tool](https://androidmtk.com/download-minimal-adb-and-fastboot-tool)**        | Connect to Android devices (Smartphone, TV)                                                                               |
+
+<br><br>
+
+## Monitoring & Diagnostics
+
+| Name                                                            | Description          |
+| --------------------------------------------------------------- | -------------------- |
+| **[HWiNFO](https://www.hwinfo.com/)**                           | Hardware Diagnostics |
+| **[HWMonitor](https://www.cpuid.com/softwares/hwmonitor.html)** | Hardware Monitoring  |
