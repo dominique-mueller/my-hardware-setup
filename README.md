@@ -23,6 +23,29 @@ My personal hardware setup.
 | CPU Cooler | Noctua NH-D15 chromax.black Dual-Tower CPU Cooler                                                                                  | [Product website](https://noctua.at/en/nh-d15-chromax-black)                                                                                             |
 | Fan        | [3x] be quiet! Silent Wings 4 high-speed (PWM, 140mm, 1900 RPM)<br>[2x] be quiet! Silent Wings 4 high-speed (PWM, 120mm, 2500 RPM) | [Product website](https://www.bequiet.com/de/casefans/silent-wings-4/3696)                                                                               |
 
+### BIOS / UEFI
+
+Installed version: `7D25v1B` (2023-04-07)
+
+#### Settings
+
+- Enable "XMP Profile 1" (currently DRAM Frequence is lowered to 3200Mhz for improved stability ...)
+- Enable "Re-Size BAR Support"
+- Enable "Intel Virtualization Techology" (CPU Feature)
+
+#### Fan Control
+
+- Select "PWM" mode
+- Set "CPU" as temperature source
+- Enable "smart fan mode"
+
+| Temperature | Fan speed |
+| ----------- | --------- |
+| 85°C        | 100%      |
+| 70°C        | 63%       |
+| 55°C        | 38%       |
+| 40°C        | 13%       |
+
 <br><br>
 
 ## Peripherals & Devices
@@ -53,7 +76,6 @@ My personal hardware setup.
 | **[Logitech G Hub](https://www.logitechg.com/de-de/innovation/g-hub.html)**                               | Logitech peripherals tool (Mouse, Keyboard, Headset, Webcam)                                                              |
 | **[Voicemeter Potato](https://vb-audio.com/Voicemeeter/potato.htm)** (paid)                               | Audio mixer _(x64, high priority, 1st CPU core affinity)_<br>Also: `audiodg.exe` _(high priority, 1st CPU core affinity)_ |
 | **[Process Lasso](https://bitsum.com/)** (paid)                                                           | Process Manager (e.g. for permanent process priorities and CPU core affinities)                                           |
-| **[MSI Afterburner](https://www.msi.com/Landing/afterburner/graphics-cards)**                             | GPU Monitoring and Overclocking                                                                                           |
 | **[Focusrite Control](https://downloads.focusrite.com/focusrite/scarlett-3rd-gen/scarlett-solo-3rd-gen)** | Audio Engine driver                                                                                                       |
 | **[HP Smart](https://www.hpsmart.com/at/de)**                                                             | HP Printer tool                                                                                                           |
 | **[Minimal ADB and Fastboot Tool](https://androidmtk.com/download-minimal-adb-and-fastboot-tool)**        | Connect to Android devices (Smartphone, TV)                                                                               |
@@ -62,7 +84,8 @@ My personal hardware setup.
 
 ## Monitoring & Diagnostics
 
-| Name                                                            | Description          |
-| --------------------------------------------------------------- | -------------------- |
-| **[HWiNFO](https://www.hwinfo.com/)**                           | Hardware Diagnostics |
-| **[HWMonitor](https://www.cpuid.com/softwares/hwmonitor.html)** | Hardware Monitoring  |
+| Name                                                                          | Description                     |
+| ----------------------------------------------------------------------------- | ------------------------------- |
+| **[MSI Afterburner](https://www.msi.com/Landing/afterburner/graphics-cards)** | GPU Monitoring and Overclocking |
+| **[HWiNFO](https://www.hwinfo.com/)**                                         | Hardware Diagnostics            |
+| **[HWMonitor](https://www.cpuid.com/softwares/hwmonitor.html)**               | Hardware Monitoring             |
