@@ -10,7 +10,10 @@ My personal hardware setup.
 
 ## Desktop Computer
 
-| PART           | PRODUCT & SPECS                                                                                                                                   | LINK                                                                                                                                             |
+The following is a list of parts I used to built my main desktop computer. The computer used for general purpose activities, gaming and
+work (software development).
+
+| Part           | Product / Specs                                                                                                                                   | Link                                                                                                                                             |
 | -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
 | **Case**       | **Fractal Design Meshify 2 compact** (black)                                                                                                      | [Website](https://www.fractal-design.com/products/cases/meshify/meshify-2-compact)                                                               |
 | **Mainboard**  | **MSI MAG Z790 TOMAHAWK WIFI**<br>ATX, Intel Z790 Chipset, LGA1700 Socket, DDR5, Intel 2.5Gbps LAN                                                | [Website](https://de.msi.com/Motherboard/MAG-Z790-TOMAHAWK-WIFI)                                                                                 |
@@ -29,18 +32,25 @@ My personal hardware setup.
 
 Version: `7D91vH6` / `E7D91IMS.H60` (2023-05-19)
 
-#### Settings
+#### General Settings
 
-- XMP Profile 1
-- "Re-Size BAR Support" enabled [default]
-- "Intel Virtualization Techology" (CPU Feature) enabled [default]
-- Standard CPU power limits ("boxed cooler")
+| Setting                         | Value                    |
+| ------------------------------- | ------------------------ |
+| Extreme Memory Profile (XMP)    | Enabled (Profile 1)      |
+| Re-Size BAR Support             | Enabled                  |
+| Intel Virtualization Technology | Enabled                  |
+| CPU Cooler Tuning               | Boxed Cooler (PL1: 253W) |
+| CPU Lite Load                   | Mode 5                   |
 
-#### Fan Control
+#### Fan Control Settings
 
-- "PWM" mode
-- "CPU" temperature source
-- "Smart Fan Mode" enabled
+| Setting            | Value   |
+| ------------------ | ------- |
+| Mode               | PWM     |
+| Temperature Source | CPU     |
+| Smart Fan Mode     | Enabled |
+
+#### Fan Curve
 
 | Temperature | Fan speed |
 | ----------- | --------- |
