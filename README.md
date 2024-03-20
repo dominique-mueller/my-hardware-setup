@@ -75,6 +75,26 @@ Version: `7D91vH6` / `E7D91IMS.H60` (2023-05-19)
 | **Router**          | **FRITZ!Box 6591 Cable Router**<br>(DOCSIS 3.1, Gigabit-LAN, WLAN AC + N)              | [Website](https://avm.de/produkte/fritzbox/fritzbox-6591-cable/)                                                    |
 | **Printer**         | **HP OfficeJet Pro 8710**                                                              | [Website](https://support.hp.com/de-de/drivers/selfservice/hp-officejet-pro-8710-all-in-one-printer-series/7902014) |
 
+<br>
+
+### Mouse Settings
+
+#### Windows
+
+| Setting                   | Value      |
+| ------------------------- | ---------- |
+| Mouse Pointer Speed       | 8 / Tick 5 |
+| Enhance Pointer Precision | Disabled   |
+
+#### Logitech G HUB
+
+| Setting              | Value        |
+| -------------------- | ------------ |
+| Lightforce Switch    | Optical Only |
+| Gaming Surface Mode  | On           |
+| DPI                  | 800          |
+| Wireless Report Rate | 2000         |
+
 <br><br>
 
 ## Drivers & Tools
