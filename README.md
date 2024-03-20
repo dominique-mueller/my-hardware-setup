@@ -101,9 +101,10 @@ Version: `7D91vH6` / `E7D91IMS.H60` (2023-05-19)
 
 | Name                                                                                                      | Description                                                  |
 | --------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------ |
-| **[NVIDIA GeForce Experience](https://www.nvidia.com/de-de/geforce/geforce-experience)**                  | GPU drivers & tool                                           |
+| **[NVIDIA GeForce Experience](https://www.nvidia.com/de-de/geforce/geforce-experience)**                  | GPU driver and tool                                           |
 | **[Samsung Magician](https://www.samsung.com/semiconductor/minisite/ssd/download/tools)**                 | SSD (NVMe M.2, SATA) tool                                    |
 | **[Logitech G Hub](https://www.logitechg.com/de-de/innovation/g-hub.html)**                               | Logitech peripherals tool (Mouse, Keyboard, Headset, Webcam) |
+| **[Xbox Accessories](https://apps.microsoft.com/detail/9nblggh30xj3)**                                    | XBOX Controller tool (e.g. Firmware Updates)               |
 | **[Voicemeter Potato](https://vb-audio.com/Voicemeeter/potato.htm)** (paid)                               | Audio mixer                                                  |
 | **[Process Lasso](https://bitsum.com/)** (paid)                                                           | Process Manager                                              |
 | **[Focusrite Control](https://downloads.focusrite.com/focusrite/scarlett-3rd-gen/scarlett-solo-3rd-gen)** | Audio Engine driver                                          |
