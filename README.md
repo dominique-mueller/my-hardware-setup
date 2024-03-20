@@ -10,9 +10,6 @@ My personal hardware setup.
 
 ## Desktop Computer
 
-The following is a list of parts I used to built my main desktop computer. The computer used for general purpose activities, gaming and
-work (software development).
-
 | Part           | Product / Specs                                                                                                                                   | Link                                                                                                                                             |
 | -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
 | **Case**       | **Fractal Design Meshify 2 compact** (black)                                                                                                      | [Website](https://www.fractal-design.com/products/cases/meshify/meshify-2-compact)                                                               |
@@ -26,9 +23,9 @@ work (software development).
 | **CPU Cooler** | **Noctua NH-D15 chromax.black Dual-Tower**<br>+ Noctua NT-H2 thermal paste                                                                        | [Website](https://noctua.at/en/nh-d15-chromax-black)                                                                                             |
 | **Fans**       | **3x be quiet! Silent Wings 4 high-speed** (PWM, 140mm, 1900 RPM)<br>**2x be quiet! Silent Wings 4 high-speed** (PWM, 120mm, 2500 RPM)            | [Website](https://www.bequiet.com/de/casefans/silent-wings-4/3696)                                                                               |
 
----
+<br>
 
-### BIOS / UEFI
+### BIOS / UEFI Configuration
 
 Version: `7D91vH6` / `E7D91IMS.H60` (2023-05-19)
 
@@ -63,20 +60,20 @@ Version: `7D91vH6` / `E7D91IMS.H60` (2023-05-19)
 
 ## Peripherals & Devices
 
-| TYPE                | PRODUCT & SPECS                                                                        | LINK                                                                                                                      |
-| ------------------- | -------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
-| **Monitor**         | **2x LG 27GL850-B**<br>(27'', 2560x1440px WQHD, IPS, 144Hz, HDR 10, G-Sync / FreeSync) | [Website](https://www.lg.com/de/monitore/lg-27GL850-B)                                                                    |
-| **Keyboard**        | **Logitech K280e Corded Keyboard**                                                     | [Website](https://www.logitech.com/de-de/product/corded-keyboard-k280e-business)                                          |
-| **Mouse**           | **Logitech G305 Gaming Wireless Mouse** (black)                                        | [Website](https://www.logitechg.com/de-de/products/gaming-mice/g305-lightspeed-wireless-gaming-mouse.910-005282.html)     |
-| **Controller**      | **Microsoft Xbox Wireless Controller** (carbon black)                                  | [Website](https://www.xbox.com/de-DE/accessories/controllers/xbox-wireless-controller)                                    |
-| **Webcam**          | **Logitech C920 USB HD Webcam**                                                        | [Website](https://www.logitech.com/de-de/product/hd-pro-webcam-c920)                                                      |
-| **Speakers**        | **Bose Companion 20**                                                                  | [Website](https://www.bose.de/de_de/products/speakers/stereo_speakers/companion-20-multimedia-speaker-system.html)        |
-| **Headset**         | **Logitech G PRO X Gaming Headset**                                                    | [Website](https://www.logitechg.com/de-de/products/gaming-audio/pro-x-gaming-headset-blue-voice-mic-tech.981-000818.html) |
-| **Microphone**      | **Audio Technica BP40**                                                                | [Website](https://www.audio-technica.com/de-de/bp40)                                                                      |
-| **Audio Interface** | **Focusrite Scarlett Solo (3rd Gen)**                                                  | [Website](https://focusrite.com/de/audio-interface/scarlett/scarlett-solo)                                                |
-| **Microphone Arm**  | **RØDE PSA1+ Professional Studio Boom Arm**                                            | [Website](https://rode.com/de/accessories/stands-bars/psa1-plus)                                                          |
-| **Router**          | **FRITZ!Box 6591 Cable Router**<br>(DOCSIS 3.1, Gigabit-LAN, WLAN AC + N)              | [Website](https://avm.de/produkte/fritzbox/fritzbox-6591-cable/)                                                          |
-| **Printer**         | **HP OfficeJet Pro 8710**                                                              | [Website](https://support.hp.com/de-de/drivers/selfservice/hp-officejet-pro-8710-all-in-one-printer-series/7902014)       |
+| Type                | Product / Specs                                                                        | Link                                                                                                                |
+| ------------------- | -------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- |
+| **Monitor**         | **2x LG 27GL850-B**<br>(27'', 2560x1440px WQHD, IPS, 144Hz, HDR 10, G-Sync / FreeSync) | [Website](https://www.lg.com/de/monitore/lg-27GL850-B)                                                              |
+| **Keyboard**        | **Logitech K280e Corded Keyboard**                                                     | [Website](https://www.logitech.com/de-de/product/corded-keyboard-k280e-business)                                    |
+| **Mouse**           | **Logitech PRO X SUPERLIGHT 2** (black)                                                | [Website](https://www.logitechg.com/de-de/products/gaming-mice/pro-x2-superlight-wireless-mouse.910-006630.html)    |
+| **Controller**      | **Microsoft Xbox Wireless Controller** (carbon black)                                  | [Website](https://www.xbox.com/de-DE/accessories/controllers/xbox-wireless-controller)                              |
+| **Headset**         | **Logitech PRO X 2 LIGHTSPEED** (black)                                                | [Website](https://www.logitechg.com/de-de/products/gaming-audio/pro-x-2-wireless-headset.981-001263.html)           |
+| **Speakers**        | **Bose Companion 20**                                                                  | [Website](https://www.bose.de/de_de/products/speakers/stereo_speakers/companion-20-multimedia-speaker-system.html)  |
+| **Webcam**          | **Logitech Stream Cam** (graphite)                                                     | [Website](https://www.logitech.com/de-de/products/webcams/streamcam.960-001281.html)                                |
+| **Microphone**      | **Audio Technica BP40**                                                                | [Website](https://www.audio-technica.com/de-de/bp40)                                                                |
+| **Audio Interface** | **Focusrite Scarlett Solo (3rd Gen)**                                                  | [Website](https://focusrite.com/de/audio-interface/scarlett/scarlett-solo)                                          |
+| **Microphone Arm**  | **RØDE PSA1+ Professional Studio Boom Arm**                                            | [Website](https://rode.com/de/accessories/stands-bars/psa1-plus)                                                    |
+| **Router**          | **FRITZ!Box 6591 Cable Router**<br>(DOCSIS 3.1, Gigabit-LAN, WLAN AC + N)              | [Website](https://avm.de/produkte/fritzbox/fritzbox-6591-cable/)                                                    |
+| **Printer**         | **HP OfficeJet Pro 8710**                                                              | [Website](https://support.hp.com/de-de/drivers/selfservice/hp-officejet-pro-8710-all-in-one-printer-series/7902014) |
 
 <br><br>
 
