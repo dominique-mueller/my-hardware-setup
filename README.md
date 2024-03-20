@@ -99,16 +99,42 @@ Version: `7D91vH6` / `E7D91IMS.H60` (2023-05-19)
 
 ## Drivers & Tools
 
-| Name                                                                                                      | Description                                                                                                                            |
-| --------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
-| **[NVIDIA GeForce Experience](https://www.nvidia.com/de-de/geforce/geforce-experience)**                  | GPU drivers & tool                                                                                                                     |
-| **[Samsung Magician](https://www.samsung.com/semiconductor/minisite/ssd/download/tools)**                 | SSD (NVMe M.2, SATA) tool                                                                                                              |
-| **[Logitech G Hub](https://www.logitechg.com/de-de/innovation/g-hub.html)**                               | Logitech peripherals tool (Mouse, Keyboard, Headset, Webcam)                                                                           |
-| **[Voicemeter Potato](https://vb-audio.com/Voicemeeter/potato.htm)** (paid)                               | Audio mixer<br>`voicemeter8x64`: CPU priority = high, CPU affinity = CPU 0<br>`audiodg.exe`: CPU priority = high, CPU affinity = CPU 0 |
-| **[Process Lasso](https://bitsum.com/)** (paid)                                                           | Process Manager (mostly used for permanent process priorities and core affinities)                                                     |
-| **[Focusrite Control](https://downloads.focusrite.com/focusrite/scarlett-3rd-gen/scarlett-solo-3rd-gen)** | Audio Engine driver                                                                                                                    |
-| **[HP Smart](https://www.hpsmart.com/at/de)**                                                             | HP Printer tool                                                                                                                        |
-| **[Minimal ADB and Fastboot Tool](https://androidmtk.com/download-minimal-adb-and-fastboot-tool)**        | Connect to Android devices (Smartphone, TV)                                                                                            |
+| Name                                                                                                      | Description                                                  |
+| --------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------ |
+| **[NVIDIA GeForce Experience](https://www.nvidia.com/de-de/geforce/geforce-experience)**                  | GPU drivers & tool                                           |
+| **[Samsung Magician](https://www.samsung.com/semiconductor/minisite/ssd/download/tools)**                 | SSD (NVMe M.2, SATA) tool                                    |
+| **[Logitech G Hub](https://www.logitechg.com/de-de/innovation/g-hub.html)**                               | Logitech peripherals tool (Mouse, Keyboard, Headset, Webcam) |
+| **[Voicemeter Potato](https://vb-audio.com/Voicemeeter/potato.htm)** (paid)                               | Audio mixer                                                  |
+| **[Process Lasso](https://bitsum.com/)** (paid)                                                           | Process Manager                                              |
+| **[Focusrite Control](https://downloads.focusrite.com/focusrite/scarlett-3rd-gen/scarlett-solo-3rd-gen)** | Audio Engine driver                                          |
+| **[HP Smart](https://www.hpsmart.com/at/de)**                                                             | HP Printer tool                                              |
+| **[Minimal ADB and Fastboot Tool](https://androidmtk.com/download-minimal-adb-and-fastboot-tool)**        | Connect to Android devices (Smartphone, TV)                  |
+
+<br>
+
+### NVIDIA Control Panel Settings
+
+| Setting               | Value                      |
+| --------------------- | -------------------------- |
+| Low Latency Mode      | Ultra                      |
+| Max Frame Rate        | 140                        |
+| Monitor Technology    | G-SYNC Compatible          |
+| Power Management Mode | Prefer Maximum Performance |
+| Shader Cache Size     | 100GB                      |
+| Vertical Sync         | On                         |
+
+<br>
+
+### Audio / Voicemeter Settings
+
+All audio input and output channels are set to `48000Hz`.
+
+Process-specific configuration (pinned via Process Lasso):
+
+| Process              | CPU Priority | CPU Affinity |
+| -------------------- | ------------ | ------------ |
+| `audiodg.exe`        | High         | CPU 0        |
+| `voicemeter8x64.exe` | High         | CPU 0        |
 
 <br><br>
 
