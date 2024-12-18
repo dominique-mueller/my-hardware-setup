@@ -10,6 +10,8 @@ My personal hardware setup.
 
 ## Desktop Computer
 
+### Overview
+
 | Part           | Product / Specs                                                                                                                                   | Link                                                                                                                                             |
 | -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
 | **Case**       | **Fractal Design Meshify 2 compact** (black)                                                                                                      | [Website](https://www.fractal-design.com/products/cases/meshify/meshify-2-compact)                                                               |
@@ -76,6 +78,8 @@ _Previously:_
 
 ## Peripherals & Devices
 
+### Overview
+
 | Type                | Product / Specs                                                                        | Link                                                                                                                |
 | ------------------- | -------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- |
 | **Monitor**         | **2x LG 27GL850-B**<br>(27'', 2560x1440px WQHD, IPS, 144Hz, HDR 10, G-Sync / FreeSync) | [Website](https://www.lg.com/de/monitore/lg-27GL850-B)                                                              |
@@ -97,10 +101,10 @@ _Previously:_
 
 #### Windows
 
-| Setting                   | Value      |
-| ------------------------- | ---------- |
-| Mouse Pointer Speed       | 8 / Tick 5 |
-| Enhance Pointer Precision | Disabled   |
+| Setting                   | Value        |
+| ------------------------- | ------------ |
+| Mouse Pointer Speed       | 8 / 5th tick |
+| Enhance Pointer Precision | Disabled     |
 
 #### Logitech G HUB
 
@@ -114,6 +118,8 @@ _Previously:_
 <br><br>
 
 ## Drivers & Tools
+
+### Overview
 
 | Name                                                                                                      | Description                                                  |
 | --------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------ |
