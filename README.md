@@ -165,9 +165,13 @@ Process-specific configuration (pinned via Process Lasso):
 
 <br><br>
 
-## Monitoring & Diagnostics
+## Diagnostics & Monitoring & Benchmarking
 
-| Name                                                            | Description          |
-| --------------------------------------------------------------- | -------------------- |
-| **[HWMonitor](https://www.cpuid.com/softwares/hwmonitor.html)** | Hardware Monitoring  |
-| **[HWiNFO](https://www.hwinfo.com/)**                           | Hardware Diagnostics |
+### Overview
+
+| Name                                                             | Description                                                     |
+| ---------------------------------------------------------------- | --------------------------------------------------------------- |
+| **[HWiNFO](https://www.hwinfo.com/)**                            | Hardware Diagnostics                                            |
+| **[HWMonitor](https://www.cpuid.com/softwares/hwmonitor.html)**  | Hardware Monitoring                                             |
+| **[MAXON CINEBENCH](https://www.maxon.net/de/cinebench)**        | Hardware Benchmarking / Stress Testing / Stability Verification |
+| **[Heaven Benchmark 4.0](https://benchmark.unigine.com/heaven)** | Hardware Benchmarking / Stress Testing / Stability Verification |
