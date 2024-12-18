@@ -27,27 +27,43 @@ My personal hardware setup.
 
 ### BIOS / UEFI Configuration
 
-Version: `7D91vH6` / `E7D91IMS.H60` (2023-05-19)
+#### Version
 
-#### General Settings
+| Info     | Value                                                                 |
+| -------- | --------------------------------------------------------------------- |
+| Version  | `7D91vHE` / `E7D91IMS.HE0`                                            |
+| Released | `2024-11-01`                                                          |
+| Built    | `2024-09-26`                                                          |
+| Source   | [BIOS](https://de.msi.com/Motherboard/MAG-Z790-TOMAHAWK-WIFI/support) |
 
-| Setting                         | Value                    |
-| ------------------------------- | ------------------------ |
-| Extreme Memory Profile (XMP)    | Enabled (Profile 1)      |
-| Re-Size BAR Support             | Enabled                  |
-| Intel Virtualization Technology | Enabled                  |
-| CPU Cooler Tuning               | Boxed Cooler (PL1: 253W) |
-| CPU Lite Load                   | Mode 5                   |
+#### Settings
+
+| Option                                                                   | Value                                          |
+| ------------------------------------------------------------------------ | ---------------------------------------------- |
+| Settings → Advanced → PCIe/PCI Sub-system Settings → Re-Size BAR Support | `Enabled`                                      |
+| Overclocking → CPU Cooler Tuning                                         | `Intel Default Settings (PL1: 253W)`           |
+| Overclocking → Extreme Memory Profile (XMP)                              | `Enabled` (`DDR5 6400MHz 32-39-39-102 1.400V`) |
+| Overclocking → CPU Features → Intel Virtualization Tech                  | `Enabled`                                      |
+| Overclocking → Advanced CPU Configuration → CPU Lite Load                | `Mode 5`                                       |
 
 #### Fan Control Settings
 
-| Setting            | Value   |
-| ------------------ | ------- |
-| Mode               | PWM     |
-| Temperature Source | CPU     |
-| Smart Fan Mode     | Enabled |
+| Option             | Value     |
+| ------------------ | --------- |
+| Mode               | `PWM`     |
+| Temperature Source | `CPU`     |
+| Smart Fan Mode     | `Enabled` |
 
-#### Fan Curve
+#### Fan Control Curve
+
+| Temperature | Fan speed |
+| ----------- | --------- |
+| 80°C        | 100%      |
+| 70°C        | 65%       |
+| 50°C        | 20%       |
+| 0°C         | 20%       |
+
+_Previously:_
 
 | Temperature | Fan speed |
 | ----------- | --------- |
@@ -101,10 +117,10 @@ Version: `7D91vH6` / `E7D91IMS.H60` (2023-05-19)
 
 | Name                                                                                                      | Description                                                  |
 | --------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------ |
-| **[NVIDIA GeForce Experience](https://www.nvidia.com/de-de/geforce/geforce-experience)**                  | GPU driver and tool                                           |
+| **[NVIDIA GeForce Experience](https://www.nvidia.com/de-de/geforce/geforce-experience)**                  | GPU driver and tool                                          |
 | **[Samsung Magician](https://www.samsung.com/semiconductor/minisite/ssd/download/tools)**                 | SSD (NVMe M.2, SATA) tool                                    |
 | **[Logitech G Hub](https://www.logitechg.com/de-de/innovation/g-hub.html)**                               | Logitech peripherals tool (Mouse, Keyboard, Headset, Webcam) |
-| **[Xbox Accessories](https://apps.microsoft.com/detail/9nblggh30xj3)**                                    | XBOX Controller tool (e.g. Firmware Updates)               |
+| **[Xbox Accessories](https://apps.microsoft.com/detail/9nblggh30xj3)**                                    | XBOX Controller tool (e.g. Firmware Updates)                 |
 | **[Voicemeter Potato](https://vb-audio.com/Voicemeeter/potato.htm)** (paid)                               | Audio mixer                                                  |
 | **[Process Lasso](https://bitsum.com/)** (paid)                                                           | Process Manager                                              |
 | **[Focusrite Control](https://downloads.focusrite.com/focusrite/scarlett-3rd-gen/scarlett-solo-3rd-gen)** | Audio Engine driver                                          |
