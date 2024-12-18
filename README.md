@@ -40,13 +40,18 @@ My personal hardware setup.
 
 #### Settings
 
-| Option                                                                   | Value                                          |
-| ------------------------------------------------------------------------ | ---------------------------------------------- |
-| Settings → Advanced → PCIe/PCI Sub-system Settings → Re-Size BAR Support | `Enabled`                                      |
-| Overclocking → CPU Cooler Tuning                                         | `Intel Default Settings (PL1: 253W)`           |
-| Overclocking → Extreme Memory Profile (XMP)                              | `Enabled` (`DDR5 6400MHz 32-39-39-102 1.400V`) |
-| Overclocking → CPU Features → Intel Virtualization Tech                  | `Enabled`                                      |
-| Overclocking → Advanced CPU Configuration → CPU Lite Load                | `Mode 5`                                       |
+| Option                                                        | Value     |
+| ------------------------------------------------------------- | --------- |
+| Advanced → PCIe/PCI Sub-system Settings → Re-Size BAR Support | `Enabled` |
+
+#### Overclocking
+
+| Option                                     | Value                                          |
+| ------------------------------------------ | ---------------------------------------------- |
+| CPU Cooler Tuning                          | `Intel Default Settings (PL1: 253W)`           |
+| Extreme Memory Profile (XMP)               | `Enabled` (`DDR5 6400MHz 32-39-39-102 1.400V`) |
+| CPU Features → Intel Virtualization Tech   | `Enabled`                                      |
+| Advanced CPU Configuration → CPU Lite Load | `Mode 5`                                       |
 
 #### Fan Control Settings
 
@@ -137,18 +142,30 @@ _Previously:_
 
 ### NVIDIA App
 
-| Option                                             | Value                                |
-| -------------------------------------------------- | ------------------------------------ |
-| Drivers                                            | `Game Ready Driver` (latest version) |
-| System → Displays → Resolution                     | `2560 x 1440 (native)`               |
-| System → Displays → Refresh Rate                   | `144 Hz`                             |
-| System → Displays → G-SYNC                         | `On, Full screen`                    |
-| Graphics → Global Settings → Monitor Technology    | `G-SYNC Compatible`                  |
-| Graphics → Global Settings → Power Management Mode | `Prefer maximum performance`         |
-| Graphics → Global Settings → Max Frame Rate        | `140 FPS`                            |
-| Graphics → Global Settings → Vertical Sync         | `On`                                 |
-| Graphics → Global Settings → Low Latency Mode      | `Ultra`                              |
-| Graphics → Global Settings → Shader Cache Size     | `100 GB`                             |
+#### Drivers
+
+| Option  | Value                                |
+| ------- | ------------------------------------ |
+| Drivers | `Game Ready Driver` (latest version) |
+
+#### Display Settings
+
+| Option                  | Value                  |
+| ----------------------- | ---------------------- |
+| Resolution   | `2560 x 1440 (native)` |
+| Refresh Rate | `144 Hz`               |
+| G-SYNC       | `On, Full screen`      |
+
+#### Global Graphics Settings
+
+| Option                                  | Value                        |
+| --------------------------------------- | ---------------------------- |
+| Monitor Technology    | `G-SYNC Compatible`          |
+| Power Management Mode | `Prefer maximum performance` |
+| Max Frame Rate        | `140 FPS`                    |
+| Vertical Sync         | `On`                         |
+| Low Latency Mode      | `Ultra`                      |
+| Shader Cache Size     | `100 GB`                     |
 
 <br>
 
