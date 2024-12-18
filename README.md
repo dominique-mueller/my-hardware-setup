@@ -137,16 +137,18 @@ _Previously:_
 
 ### NVIDIA App
 
-Graphics → Global Settings:
-
-| Option                | Value                      |
-| --------------------- | -------------------------- |
-| Monitor Technology    | G-SYNC Compatible          |
-| Power Management Mode | Prefer maximum performance |
-| Max Frame Rate        | 140 FPS                    |
-| Vertical Sync         | On                         |
-| Low Latency Mode      | Ultra                      |
-| Shader Cache Size     | 100 GB                     |
+| Option                                             | Value                                |
+| -------------------------------------------------- | ------------------------------------ |
+| Drivers                                            | `Game Ready Driver` (latest version) |
+| System → Displays → Resolution                     | `2560 x 1440 (native)`               |
+| System → Displays → Refresh Rate                   | `144 Hz`                             |
+| System → Displays → G-SYNC                         | `On, Full screen`                    |
+| Graphics → Global Settings → Monitor Technology    | `G-SYNC Compatible`                  |
+| Graphics → Global Settings → Power Management Mode | `Prefer maximum performance`         |
+| Graphics → Global Settings → Max Frame Rate        | `140 FPS`                            |
+| Graphics → Global Settings → Vertical Sync         | `On`                                 |
+| Graphics → Global Settings → Low Latency Mode      | `Ultra`                              |
+| Graphics → Global Settings → Shader Cache Size     | `100 GB`                             |
 
 <br>
 
