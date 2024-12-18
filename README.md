@@ -123,9 +123,9 @@ _Previously:_
 
 | Name                                                                                                      | Description                                                  |
 | --------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------ |
-| **[NVIDIA GeForce Experience](https://www.nvidia.com/de-de/geforce/geforce-experience)**                  | GPU driver and tool                                          |
+| **[NVIDIA App](https://www.nvidia.com/de-de/software/nvidia-app/)**                                       | GPU driver and tool                                          |
+| **[Logitech G HUB](https://www.logitechg.com/de-de/innovation/g-hub.html)**                               | Logitech peripherals tool (Mouse, Keyboard, Headset, Webcam) |
 | **[Samsung Magician](https://www.samsung.com/semiconductor/minisite/ssd/download/tools)**                 | SSD (NVMe M.2, SATA) tool                                    |
-| **[Logitech G Hub](https://www.logitechg.com/de-de/innovation/g-hub.html)**                               | Logitech peripherals tool (Mouse, Keyboard, Headset, Webcam) |
 | **[Xbox Accessories](https://apps.microsoft.com/detail/9nblggh30xj3)**                                    | XBOX Controller tool (e.g. Firmware Updates)                 |
 | **[Voicemeter Potato](https://vb-audio.com/Voicemeeter/potato.htm)** (paid)                               | Audio mixer                                                  |
 | **[Process Lasso](https://bitsum.com/)** (paid)                                                           | Process Manager                                              |
@@ -135,16 +135,18 @@ _Previously:_
 
 <br>
 
-### NVIDIA Control Panel Settings
+### NVIDIA App
 
-| Setting               | Value                      |
+Graphics → Global Settings:
+
+| Option                | Value                      |
 | --------------------- | -------------------------- |
-| Low Latency Mode      | Ultra                      |
-| Max Frame Rate        | 140                        |
 | Monitor Technology    | G-SYNC Compatible          |
-| Power Management Mode | Prefer Maximum Performance |
-| Shader Cache Size     | 100GB                      |
+| Power Management Mode | Prefer maximum performance |
+| Max Frame Rate        | 140 FPS                    |
 | Vertical Sync         | On                         |
+| Low Latency Mode      | Ultra                      |
+| Shader Cache Size     | 100 GB                     |
 
 <br>
 
